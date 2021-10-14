@@ -9,6 +9,7 @@ Först definieras funktionen even numbers som tar varje heltal och multiplicerar
 Därefter tas de första 1000000 talen som funktionen genererar och printar det.
 
 * Vad innebär rekursion?
+
 rekursion innebär att någonting definieras utifrån sig själv.
 * Varför fungerar följande funktion i språk så som haskell och inte i t.ex javascript
 
